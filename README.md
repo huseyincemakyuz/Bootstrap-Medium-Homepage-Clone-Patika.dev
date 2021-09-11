@@ -5,7 +5,7 @@
 
 ### First Part
 
-<img src="img/medium-1.png">
+<img src="img/medium.png">
 
 <br><br>
 
